@@ -7,5 +7,5 @@ Steps:
 ### Reading the videos and taking images from it
 ### Reading the label in the json file and store the image in a folder according to it's label
 ### Converting the image to an array and splitting the data into train and test
-### Customizing the InceptionResNetV2 and training the data on it
+### Customizing the Xception and training the data on it
 ### Testing
