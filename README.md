@@ -1,4 +1,5 @@
-# Deepfake_Xception_CNN
+# Deepfake_Xception_Inception_CNN
+## Comparison
 DeepFake-Detection-Project
 We are trying to detect deepfake videos. Here we are using a dataset from Kaggle where the annotations are stored in a json file in the train sample videos folder.
 
