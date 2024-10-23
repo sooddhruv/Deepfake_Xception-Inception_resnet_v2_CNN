@@ -17,11 +17,11 @@ Developed an ML model using YOLOv7 to identify warning signal lights in car dash
 
 <img width="857" alt="Screenshot 2024-10-22 at 10 09 24 PM" src="https://github.com/user-attachments/assets/7f0f86e2-49fc-45f3-9321-6b8c5aa69080">
 
-Steps:
+### Steps:
 
-### Reading the videos and taking images from it
-### Reading the label in the json file and store the image in a folder according to it's label
-### Converting the image to an array and splitting the data into train and test
-### Customizing the Xception, Inception_resnet_v2 and training the data on it
-### Testing
+## Reading the videos and taking images from it
+## Reading the label in the json file and store the image in a folder according to it's label
+## Converting the image to an array and splitting the data into train and test
+## Customizing the Xception, Inception_resnet_v2 and training the data on it
+## Testing
 
