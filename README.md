@@ -18,3 +18,6 @@ Steps:
 ### Converting the image to an array and splitting the data into train and test
 ### Customizing the Xception, Inception_resnet_v2 and training the data on it
 ### Testing
+
+
+Link to research paper: https://ijeces.ferit.hr/index.php/ijeces/article/view/1719
