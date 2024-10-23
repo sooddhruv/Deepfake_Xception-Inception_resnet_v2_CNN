@@ -1,3 +1,9 @@
+
+Link to published research paper: https://ijeces.ferit.hr/index.php/ijeces/article/view/1719
+
+
+
+
 # Deepfake_Xception_Inception_resnet_v2_CNN
 
 DeepFake-Detection-Project
@@ -19,5 +25,3 @@ Steps:
 ### Customizing the Xception, Inception_resnet_v2 and training the data on it
 ### Testing
 
-
-Link to research paper: https://ijeces.ferit.hr/index.php/ijeces/article/view/1719
